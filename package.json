@@ -4,7 +4,7 @@
   "description": "Laravel Echo Node JS Server for Socket.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LeGmask/Laravel-Echo-Server.git"
+    "url": "git+https://github.com/aytaceminoglu/laravel-echo-server.git"
   },
   "main": "dist/index.js",
   "keywords": [
